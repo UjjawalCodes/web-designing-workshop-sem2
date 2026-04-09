@@ -1,0 +1,23 @@
+.container{
+    width: 40vw;
+    border: black 3px solid;
+    /* flex-direction: column; */
+    /* display: flex; */
+    /* gap: 20px; */
+    text-align: center;
+    padding: 24px;
+    justify-content: center;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input{
+    height: 25px;
+    border-radius: 5px;
+}
+button{
+    padding: 10px 20px;
+}

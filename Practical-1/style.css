@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 20px;
+    background-color: rgb(120, 193, 120);
+    border: black 2px solid;
+    padding: 80px 160px;
+    border-radius: 8px;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
